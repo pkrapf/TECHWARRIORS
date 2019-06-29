@@ -1,5 +1,7 @@
 # TechWarriors
 
+I worked on this project with five other students. I created the testsimonial page where testimonials are entered and saved to a firebase table. I also created the page to retrieve the rows from firebase and displaay them. And I helped out with the login page and parts of the home page.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
